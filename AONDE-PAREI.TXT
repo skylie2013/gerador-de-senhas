@@ -1,0 +1,7 @@
+Nesse arquivo voce deverá marcar em que parte do projeto você parou
+ex: 
+ Parei na aula 03, na parte (  "Personalize sua senha": ).
+ no arquivo index.html (linha 55).
+ no arquivo css (linha 70).
+ no arquivo main.js (linha 150).
+#######################################################################################
